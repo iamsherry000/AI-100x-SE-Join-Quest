@@ -1,0 +1,5 @@
+com\ai100x\order\OrderService.class
+com\ai100x\order\BuyOneGetOnePromotion.class
+com\ai100x\order\OrderResult.class
+com\ai100x\order\ThresholdDiscountPromotion.class
+com\ai100x\order\OrderItem.class
