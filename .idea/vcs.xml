@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/guessing-game-bdd-atomic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/guessing-game-bdd-atomic-bbb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/guessing-game-ut-bdd" vcs="Git" />
   </component>
 </project>
